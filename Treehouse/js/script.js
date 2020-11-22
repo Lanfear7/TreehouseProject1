@@ -11,27 +11,28 @@ project 1 - A Random Quote Generator
  * `quotes` array 
 ***/
 const quotes = [
-  {
+ {
     quote: 'A life spent making mistakes is not only more honorable, but more useful than a life spent doing nothing.',
     source: 'George Bernhard Shaw',
     citation: 'https://medium.com/swlh/21-of-the-worlds-most-powerful-quotes-updated-for-today-and-tomorrow-6b7634358c2',
-  },
-  {
-    quote: 'Light travels faster than sound. This is why some people appear bright until you hear them speak.',
-    source: 'Alan Dundes',
-    citation: 'https://www.keepinspiring.me/funny-quotes/',
     year: 'N/A'
   },
   {
-    quote: "It's funny how I see it more straight when I'm bent", 
-    source: 'Joey Bada$$',
-    citation: 'Album: 1999',
-    year: '2012'
+    quote: 'The greatest glory in living lies not in never falling, but in rising every time we fall',
+    source: 'Nelson Mandela',
+    citation: 'https://blog.hubspot.com/sales/famous-quotes',
+    year: 'N/A'
   },
   {
-    quote: "Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.",
-    source: 'Albert Einstein',
-    citation: 'https://www.goodreads.com/quotes',
+    quote: "The way to get started is to quit talking and begin doing.", 
+    source: 'Walt Disney',
+    citation: 'https://blog.hubspot.com/sales/famous-quotes',
+    year: 'N/A'
+  },
+  {
+    quote: "If you're the smartest person in the room, you're in the wrong room",
+    source: 'Lorne Michaels',
+    citation: "https://www.executiveforum.com/never-be-the-smartest-person-in-the-room/#:~:text=%E2%80%9CIf%20you're%20the%20smartest,who%20are%20smarter%20than%20you.",
     year: 'N/A'
   },
   {
